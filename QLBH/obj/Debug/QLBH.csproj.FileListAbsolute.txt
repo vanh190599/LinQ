@@ -1,0 +1,14 @@
+C:\Users\VanAnh\Desktop\NguyenVanAnh\QLBH\bin\Debug\QLBH.exe.config
+C:\Users\VanAnh\Desktop\NguyenVanAnh\QLBH\bin\Debug\QLBH.exe
+C:\Users\VanAnh\Desktop\NguyenVanAnh\QLBH\bin\Debug\QLBH.pdb
+C:\Users\VanAnh\Desktop\NguyenVanAnh\QLBH\obj\Debug\QLBH.csprojAssemblyReference.cache
+C:\Users\VanAnh\Desktop\NguyenVanAnh\QLBH\obj\Debug\QLBH.Form1.resources
+C:\Users\VanAnh\Desktop\NguyenVanAnh\QLBH\obj\Debug\QLBH.Properties.Resources.resources
+C:\Users\VanAnh\Desktop\NguyenVanAnh\QLBH\obj\Debug\QLBH.csproj.GenerateResource.cache
+C:\Users\VanAnh\Desktop\NguyenVanAnh\QLBH\obj\Debug\QLBH.exe
+C:\Users\VanAnh\Desktop\NguyenVanAnh\QLBH\obj\Debug\QLBH.pdb
+C:\Users\VanAnh\Desktop\NguyenVanAnh\QLBH\bin\Debug\EntityFramework.dll
+C:\Users\VanAnh\Desktop\NguyenVanAnh\QLBH\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\VanAnh\Desktop\NguyenVanAnh\QLBH\bin\Debug\EntityFramework.xml
+C:\Users\VanAnh\Desktop\NguyenVanAnh\QLBH\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\VanAnh\Desktop\NguyenVanAnh\QLBH\obj\Debug\QLBH.csproj.CopyComplete
